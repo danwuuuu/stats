@@ -3,8 +3,5 @@ Engineering measurement and analysis are critical to any engineering practice. T
 
 
 Introduction: 
-The project is going to reveal students’ GPA depending on the students’ performance and majors. By collecting these data, they will show how CGPA is affected based on the class attendance and their majors. Although class attendances and majors might affect students’ CGPA, strength and weakness of each student may also influence GPA. In other words, the lecture attendance is not the only factor that affects the GPA of students. In addition, each professor has different teaching ability and different exam question which are also the factors that affect students’ GPA. For instance, some of the professors are hard, influencing the GPA of students. Throughout the group discussion, we decide to choose this topic because for the great majority of people, lecture attendance should affect the grade. Nevertheless, there are many different kinds of factors that affect the CGPA such as the ways of studying, the attitude of studying, and also the study environment. In this investigation, we are aimed to find out the relationship of this phenomenon from our statistical analysis. Ultimately, this project is going to demonstrate that the GPA may be or not affected by how students perform.
-
-
-
-
+This project analyzes the data of different students' GPA in order to show how GPA is influenced by student's in class attendance.
+There are other factors, such as students' interests, exam method, and professors can also influence student's GPA. The group decides this topic because lecture attendance is considered as the main factor in students' GPA. In the investigation, the group aims at finding out the relationship of this phenomenon from the statistical analysis. Ultimately, this project is going to demonstrate that the GPA may be or not affected by how students perform.
